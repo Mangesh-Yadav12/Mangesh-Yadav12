@@ -1,112 +1,142 @@
-![Role](https://img.shields.io/badge/Role-Data%20Engineer-blue)
-![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-success)
-![Tech](https://img.shields.io/badge/Tech-Azure%20%7C%20Databricks%20%7C%20PySpark-informational)
-![Focus](https://img.shields.io/badge/Focus-Scalable%20Data%20Pipelines-orange)
-![Status](https://img.shields.io/badge/Open%20to%20Opportunities-Yes-brightgreen)
-
-
-# 👋 Hi, I'm Mangesh Yadav
-
-🚀 **Certified Data Engineer | 4+ Years Experience | Azure | Databricks | PySpark | Power BI**
-
-I am a results-driven **Data Engineer** with 4+ years of experience building scalable, production-grade data pipelines and analytics solutions.  
-I specialize in **modern data stacks**, marketing data integration, and business-focused analytics.
-
-📍 Nagpur, India  
-📧 Email: mangeshyadavv@gmail.com  
-🔗 GitHub: https://github.com/Mangesh-Yadav12  
-🔗 LinkedIn: https://www.linkedin.com/in/mangesh-yadav-Data-scientist  
+<!-- ================= BADGES ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Data%20Engineer-blue" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-success" />
+  <img src="https://img.shields.io/badge/Tech-Azure%20|%20Databricks%20|%20PySpark-informational" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Data%20Pipelines-orange" />
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-Yes-brightgreen" />
+</p>
 
 ---
 
-## 🧠 About Me
+<h1 align="center">👋 Hi, I'm Mangesh Yadav</h1>
 
-- Certified **Databricks Data Engineer Associate**
-- Microsoft Certified **Fabric Data Engineer (DP-700)**
-- Strong experience with **Azure Databricks, Delta Lake, ADF, PySpark**
-- Built automated ETL pipelines and real-time dashboards for marketing and analytics teams
-- Passionate about **clean data architecture, performance optimization, and problem-solving**
+<h3 align="center">Certified Data Engineer | Azure • Databricks • PySpark • Power BI</h3>
+
+<p align="center">
+📍 Nagpur, India &nbsp; | &nbsp;
+📧 <a href="mailto:Mangeshyadavv@gmail.com">Email</a> &nbsp; | &nbsp;
+🔗 <a href="https://www.linkedin.com/in/mangesh-yadav-Data-scientist">LinkedIn</a> &nbsp; | &nbsp;
+💻 <a href="https://github.com/Mangesh-Yadav12">GitHub</a>
+</p>
+
+---
+
+## 🧠 Professional Summary
+
+I am a **Certified Data Engineer with 4+ years of experience** building scalable, production-grade data pipelines and analytics platforms using **Azure Databricks, PySpark, Delta Lake, and Azure Data Factory**.
+
+I specialize in **modern data stacks, marketing data integration, lakehouse architecture, performance optimization**, and **business-driven analytics**.
+
+---
+
+## 🔑 Impact at a Glance
+
+- ⏱️ Reduced data processing time by **87%** using PySpark & Databricks  
+- 📉 Cut manual reporting efforts by **60%** through automation  
+- 📊 Enabled real-time insights across **6+ marketing platforms**  
+- 🚀 Improved campaign engagement by **30%**
+
+---
+
+## 🛠️ Tech Stack (Click to Expand)
+
+<details>
+<summary><strong>🧩 Data Engineering</strong></summary>
+
+- Azure Databricks  
+- Azure Data Factory  
+- Delta Lake & Delta Live Tables  
+- Azure SQL, Synapse  
+- Lakehouse Architecture  
+
+</details>
+
+<details>
+<summary><strong>⚙️ Programming & Querying</strong></summary>
+
+- Python  
+- PySpark  
+- SQL  
+
+</details>
+
+<details>
+<summary><strong>📊 BI & Analytics</strong></summary>
+
+- Power BI  
+- Microsoft Fabric  
+- Looker  
+
+</details>
+
+<details>
+<summary><strong>🔁 Version Control</strong></summary>
+
+- Git  
+- GitHub  
+
+</details>
 
 ---
 
 ## 💼 Work Experience
 
-### **Data Engineer — Mediamint**
-📍 Hyderabad | 🗓️ Sep 2021 – Apr 2025
+<details>
+<summary><strong>🏢 Data Engineer — Mediamint (Sep 2021 – Apr 2025)</strong></summary>
 
-**Data Engineering & Pipelines**
+### Data Engineering & Pipelines
 - Designed and deployed scalable ETL pipelines using **Azure Databricks, Azure Data Factory, Fivetran, Azure SQL**
 - Built Delta Lake–based lakehouse architecture supporting analytics and ML workloads
-- Automated high-volume marketing data ingestion from **Facebook Ads, GA4, DV360, SA360, LinkedIn Ads, Mercado Libre**
+- Automated ingestion from **Facebook Ads, GA4, DV360, SA360, LinkedIn Ads, Mercado Libre**
 - Reduced report generation time by **60%**
 
-**Business Intelligence**
+### Business Intelligence
 - Built **10+ Power BI dashboards** for budget vs spend, campaign performance, and customer insights
 - Created self-serve analytics tools, reducing manual reporting by **50%**
-- Worked closely with stakeholders to define KPIs and resolve data inconsistencies
+- Partnered with stakeholders to define KPIs and resolve data discrepancies
+
+</details>
 
 ---
 
-## 🏆 Key Achievements
+## 🚀 Featured Projects (Expandable)
 
-### 🔹 Multi-Platform Marketing Data Integration
-- Unified data from 6+ platforms into Delta Lake
-- Automated hourly syncs using ADF & Fivetran
-- Reduced data discrepancies by **95%**
-- Enabled real-time campaign performance tracking
+<details>
+<summary><strong>📌 Customer Segmentation Using Databricks</strong></summary>
 
-### 🔹 Customer Segmentation at Scale
-- Processed **10M+ records** using PySpark on Databricks
-- Reduced processing time from **6+ hours to under 45 minutes**
-- Enabled daily segmentation updates
-- Improved campaign engagement by **30%**
-
----
-
-## 🛠️ Projects
-
-### **Customer Segmentation Using Databricks**
 **Tech:** Databricks | PySpark | Delta Lake | Azure Data Lake | Power BI  
-- Built scalable ETL pipelines for customer behavior analysis
+
+- Built scalable ETL pipelines for **10M+ customer records**
 - Performed feature engineering using PySpark
 - Stored curated datasets in Delta Lake
-- Built dashboards to visualize customer clusters and KPIs
+- Developed dashboards to visualize customer clusters
+- Enabled **30% increase in marketing engagement**
 
----
+</details>
 
-### **Budget vs Spend Campaign Analytics Dashboard**
+<details>
+<summary><strong>📌 Budget vs Spend Campaign Analytics Dashboard</strong></summary>
+
 **Tech:** Power BI | Delta Lake | Microsoft Fabric  
-- Built real-time dashboards across multiple ad platforms
-- Implemented unified KPIs and attribution models
-- Reduced manual reporting by **60%**
 
----
+- Developed real-time dashboards across multiple marketing platforms
+- Unified campaign KPIs and attribution models
+- Reduced manual reporting efforts by **60%**
 
-### **Modern Data Stack Implementation**
-**Tech:** Azure Databricks | PySpark | Delta Lake | DLT | Streaming | Star Schema  
+</details>
+
+<details>
+<summary><strong>📌 Modern Data Stack Implementation</strong></summary>
+
+**Tech:** Azure Databricks | PySpark | Delta Lake | DLT | Streaming  
 
 - Implemented **Medallion Architecture (Bronze, Silver, Gold)**
-- Built streaming pipelines using Structured Streaming & Autoloader
-- Implemented **SCD Type 1 & 2**
-- Designed dimensional models and Star Schema
+- Built batch & streaming pipelines using Autoloader & Structured Streaming
+- Designed **Star Schema** and implemented **SCD Type 1 & 2**
 - Used Unity Catalog for governance and access control
 
----
-
-## 🧑‍💻 Skills
-
-**Data Engineering**
-- Azure Databricks, Azure Data Factory, Delta Lake, Delta Live Tables
-- Azure SQL, Synapse, BigQuery, Lakehouse Architecture
-
-**Programming & Querying**
-- Python, PySpark, SQL
-
-**BI & Analytics**
-- Power BI, Microsoft Fabric, Looker
-
-**Version Control**
-- Git, GitHub
+</details>
 
 ---
 
@@ -121,34 +151,23 @@ I specialize in **modern data stacks**, marketing data integration, and business
 
 ## 📈 Current Focus
 
-- Strengthening **problem-solving & logic building**
-- Solving **5 logic-based problems daily**
-- Deepening expertise in **scalable data architecture**
+- 🔁 Solving **5 logic-based problems daily**
+- 🧠 Strengthening problem-solving & DSA fundamentals
+- ⚙️ Building production-ready, scalable data architectures
+- ☁️ Advancing expertise in **Azure & Databricks**
 
 ---
 
-## ⭐ Let’s Connect
+## 🤝 Let’s Connect
 
-If you’re interested in:
-- Data Engineering
-- Analytics Platforms
-- Azure & Databricks
-- Real-world data problem solving
+💬 Open to:
+- Data Engineering roles
+- Analytics & Platform Engineering
+- Azure / Databricks projects
+- Real-world data challenges
 
-Feel free to connect with me on LinkedIn 🚀
+📩 Feel free to connect with me on **LinkedIn** or explore my repositories!
 
+---
 
-<!--
-**Mangesh-Yadav12/Mangesh-Yadav12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Consistency beats intensity. Learning never stops.*
