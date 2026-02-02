@@ -145,17 +145,11 @@ I specialize in **modern data stacks, marketing data integration, lakehouse arch
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mangesh-Yadav12&show_icons=true&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/..." />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Mangesh-Yadav12"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/..." />
 </p>
 
 ---
