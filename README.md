@@ -15,8 +15,14 @@
 
 <p align="center">
 📍 Nagpur, India &nbsp; | &nbsp;
-📧 <a href="mailto:Mangeshyadavv@gmail.com">Email</a> &nbsp; | &nbsp;
-🔗 <a href="https://www.linkedin.com/in/mangesh-yadav-Data-scientist">LinkedIn</a> &nbsp; | &nbsp;
+📧 <p>
+<a href="https://www.linkedin.com/in/mangesh-yadav-Data-scientist">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:Mangeshyadavv@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 💻 <a href="https://github.com/Mangesh-Yadav12">GitHub</a>
 </p>
 
@@ -31,19 +37,6 @@ I specialize in **modern data stacks, marketing data integration, lakehouse arch
 
 ---
 
-## 🌐 Socials
-
-<p>
-<a href="https://www.linkedin.com/in/mangesh-yadav-Data-scientist">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:Mangeshyadavv@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
 
 ## 🔑 Impact at a Glance
 
@@ -54,44 +47,26 @@ I specialize in **modern data stacks, marketing data integration, lakehouse arch
 
 ---
 
-## 🛠️ Tech Stack (Click to Expand)
+## 🧰 Tech Stack
 
-<details>
-<summary><strong>🧩 Data Engineering</strong></summary>
+### ⚙️ Data Engineering
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E2E?style=for-the-badge&logo=databricks)
+![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge)
 
-- Azure Databricks  
-- Azure Data Factory  
-- Delta Lake & Delta Live Tables  
-- Azure SQL, Synapse  
-- Lakehouse Architecture  
+### 🧑‍💻 Programming & Querying
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-</details>
+### 📊 Analytics & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5E5E5E?style=for-the-badge)
 
-<details>
-<summary><strong>⚙️ Programming & Querying</strong></summary>
-
-- Python  
-- PySpark  
-- SQL  
-
-</details>
-
-<details>
-<summary><strong>📊 BI & Analytics</strong></summary>
-
-- Power BI  
-- Microsoft Fabric  
-- Looker  
-
-</details>
-
-<details>
-<summary><strong>🔁 Version Control</strong></summary>
-
-- Git  
-- GitHub  
-
-</details>
+### 🔁 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
