@@ -140,6 +140,17 @@ I specialize in **modern data stacks, marketing data integration, lakehouse arch
 - 🏅 HackerRank Certified: **SQL**
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mangesh-Yadav12&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mangesh-Yadav12" />
+</p>
+
+---
 
 ## 📈 Current Focus
 
