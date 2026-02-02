@@ -9,8 +9,8 @@
 
 ---
 
-<h1 align="center">👋 Hi, I'm Mangesh Yadav</h1>
-
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Mangesh Yadav</h1>
 <h3 align="center">Certified Data Engineer | Azure • Databricks • PySpark • Power BI</h3>
 
 <p align="center">
@@ -19,6 +19,7 @@
 🔗 <a href="https://www.linkedin.com/in/mangesh-yadav-Data-scientist">LinkedIn</a> &nbsp; | &nbsp;
 💻 <a href="https://github.com/Mangesh-Yadav12">GitHub</a>
 </p>
+
 
 ---
 
