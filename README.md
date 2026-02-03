@@ -17,6 +17,13 @@
 📍 Nagpur, India
 </p>
 
+<!-- ================= PORTFOLIO LINK (PROMINENT) ================= -->
+<p align="center">
+  <a href="https://mangesh-yadav12.github.io">
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/mangesh-yadav-Data-scientist">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -29,7 +36,16 @@
 </a>
 </p>
 
+---
 
+## 🌟 Interactive Portfolio
+
+**🚀 Check out my [Interactive Portfolio](https://mangesh-yadav12.github.io)** to see:
+- ✨ Animated project showcases
+- 📊 Real-time skill visualizations  
+- 💼 Complete work experience timeline
+- 🎯 Live stats & achievements
+- 🔗 Direct links to projects & certifications
 
 ---
 
@@ -40,7 +56,6 @@ I am a **Certified Data Engineer with 4+ years of experience** building scalable
 I specialize in **modern data stacks, marketing data integration, lakehouse architecture, performance optimization**, and **business-driven analytics**.
 
 ---
-
 
 ## 🔑 Impact at a Glance
 
@@ -94,7 +109,9 @@ I specialize in **modern data stacks, marketing data integration, lakehouse arch
 
 ---
 
-## 🚀 Featured Projects (Expandable)
+## 🚀 Featured Projects
+
+> 💡 **See all projects with interactive demos on my [Portfolio](https://mangesh-yadav12.github.io)**
 
 <details>
 <summary><strong>📌 Customer Segmentation Using Databricks</strong></summary>
@@ -152,7 +169,7 @@ I specialize in **modern data stacks, marketing data integration, lakehouse arch
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 💬 Open to:
 - Data Engineering roles
@@ -161,6 +178,14 @@ I specialize in **modern data stacks, marketing data integration, lakehouse arch
 - Real-world data challenges
 
 📩 Feel free to connect with me on **LinkedIn** or explore my repositories!
+
+---
+
+<p align="center">
+  <a href="https://mangesh-yadav12.github.io">
+    <img src="https://img.shields.io/badge/⭐_View_Full_Portfolio-FF6B35?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
