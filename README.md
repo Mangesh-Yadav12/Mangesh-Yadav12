@@ -17,35 +17,34 @@
 📍 Nagpur, India
 </p>
 
-<!-- ================= PORTFOLIO LINK (PROMINENT) ================= -->
+<!-- ================= PORTFOLIO LINK ================= -->
 <p align="center">
-  <a href="https://mangesh-yadav12.github.io">
-    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
+  🌐 Portfolio: <a href="https://mangesh-yadav12.github.io">https://mangesh-yadav12.github.io</a>
+</p>
+
+<!-- ================= CONTACT LINKS ================= -->
+<p align="center">
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/mangesh-yadav-Data-scientist">linkedin.com/in/mangesh-yadav</a> &nbsp; | &nbsp;
+📧 Email: <a href="mailto:Mangeshyadavv@gmail.com">Mangeshyadavv@gmail.com</a> &nbsp; | &nbsp;
+💻 GitHub: <a href="https://github.com/Mangesh-Yadav12">github.com/Mangesh-Yadav12</a>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mangesh-yadav-Data-scientist">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:Mangeshyadavv@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Mangesh-Yadav12">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+🧠 LeetCode: <a href="https://leetcode.com/u/Mangesh_yadavv/">leetcode.com/u/Mangesh_yadavv</a>
 </p>
 
 ---
 
 ## 🌟 Interactive Portfolio
 
-**🚀 Check out my [Interactive Portfolio](https://mangesh-yadav12.github.io)** to see:
-- ✨ Animated project showcases
-- 📊 Real-time skill visualizations  
-- 💼 Complete work experience timeline
-- 🎯 Live stats & achievements
-- 🔗 Direct links to projects & certifications
+**🚀 Visit my Interactive Portfolio:**  
+👉 https://mangesh-yadav12.github.io
+
+It includes:
+- ✨ Animated project showcases  
+- 📊 Skill visualizations  
+- 💼 Complete experience timeline  
+- 🔗 Direct links to projects & certifications  
 
 ---
 
@@ -69,123 +68,105 @@ I specialize in **modern data stacks, marketing data integration, lakehouse arch
 ## 🧰 Tech Stack
 
 ### ⚙️ Data Engineering
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E2E?style=for-the-badge&logo=databricks)
-![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge)
+- Azure Databricks  
+- Azure Data Factory  
+- Delta Lake & Delta Live Tables  
+- Azure SQL & Synapse  
+- Lakehouse Architecture  
 
 ### 🧑‍💻 Programming & Querying
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+- Python  
+- PySpark  
+- SQL  
 
 ### 📊 Analytics & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5E5E5E?style=for-the-badge)
+- Power BI  
+- Microsoft Fabric  
+- Looker  
 
 ### 🔁 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+- Git  
+- GitHub  
 
 ---
 
 ## 💼 Work Experience
 
-<details>
-<summary><strong>🏢 Data Engineer — Mediamint (Sep 2021 – Apr 2025)</strong></summary>
+### 🏢 Data Engineer — Mediamint  
+**Sep 2021 – Apr 2025**
 
-### Data Engineering & Pipelines
-- Designed and deployed scalable ETL pipelines using **Azure Databricks, Azure Data Factory, Fivetran, Azure SQL**
-- Built Delta Lake–based lakehouse architecture supporting analytics and ML workloads
-- Automated ingestion from **Facebook Ads, GA4, DV360, SA360, LinkedIn Ads, Mercado Libre**
+**Data Engineering & Pipelines**
+- Designed and deployed scalable ETL pipelines using Azure Databricks and ADF  
+- Built Delta Lake–based lakehouse architecture  
+- Automated ingestion from Facebook Ads, GA4, DV360, SA360, LinkedIn Ads  
 - Reduced report generation time by **60%**
 
-### Business Intelligence
-- Built **10+ Power BI dashboards** for budget vs spend, campaign performance, and customer insights
-- Created self-serve analytics tools, reducing manual reporting by **50%**
-- Partnered with stakeholders to define KPIs and resolve data discrepancies
-
-</details>
+**Business Intelligence**
+- Built **10+ Power BI dashboards**  
+- Created self-serve analytics tools (50% effort reduction)  
+- Worked closely with stakeholders to define KPIs and ensure data accuracy  
 
 ---
 
 ## 🚀 Featured Projects
 
-> 💡 **See all projects with interactive demos on my [Portfolio](https://mangesh-yadav12.github.io)**
-
-<details>
-<summary><strong>📌 Customer Segmentation Using Databricks</strong></summary>
-
+### 📌 Customer Segmentation Using Databricks
 **Tech:** Databricks | PySpark | Delta Lake | Azure Data Lake | Power BI  
 
-- Built scalable ETL pipelines for **10M+ customer records**
-- Performed feature engineering using PySpark
-- Stored curated datasets in Delta Lake
-- Developed dashboards to visualize customer clusters
-- Enabled **30% increase in marketing engagement**
+- Processed **10M+ customer records**
+- Built scalable ETL pipelines
+- Developed customer segmentation dashboards
+- Improved engagement by **30%**
 
-</details>
+---
 
-<details>
-<summary><strong>📌 Budget vs Spend Campaign Analytics Dashboard</strong></summary>
-
+### 📌 Budget vs Spend Campaign Analytics Dashboard
 **Tech:** Power BI | Delta Lake | Microsoft Fabric  
 
-- Developed real-time dashboards across multiple marketing platforms
-- Unified campaign KPIs and attribution models
-- Reduced manual reporting efforts by **60%**
+- Built real-time dashboards
+- Unified KPIs across platforms
+- Reduced reporting effort by **60%**
 
-</details>
+---
 
-<details>
-<summary><strong>📌 Modern Data Stack Implementation</strong></summary>
-
+### 📌 Modern Data Stack Implementation
 **Tech:** Azure Databricks | PySpark | Delta Lake | DLT | Streaming  
 
 - Implemented **Medallion Architecture (Bronze, Silver, Gold)**
-- Built batch & streaming pipelines using Autoloader & Structured Streaming
-- Designed **Star Schema** and implemented **SCD Type 1 & 2**
-- Used Unity Catalog for governance and access control
-
-</details>
+- Built batch & streaming pipelines
+- Designed **Star Schema**
+- Implemented **SCD Type 1 & 2**
+- Used Unity Catalog for governance
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 Microsoft Certified: **Fabric Data Engineer Associate (DP-700)**
-- 🏅 Databricks Certified: **Data Engineer Associate**
-- 🏅 HackerRank Certified: **Python**
-- 🏅 HackerRank Certified: **SQL**
+- Microsoft Certified: **Fabric Data Engineer Associate (DP-700)**
+- Databricks Certified: **Data Engineer Associate**
+- HackerRank Certified: **Python**
+- HackerRank Certified: **SQL**
 
 ---
 
 ## 📈 Current Focus
 
-- 🔁 Solving **5 logic-based problems daily**
+- 🔁 Solving **5 LeetCode problems daily**
 - 🧠 Strengthening problem-solving & DSA fundamentals
 - ⚙️ Building production-ready, scalable data architectures
 - ☁️ Advancing expertise in **Azure & Databricks**
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
 💬 Open to:
-- Data Engineering roles
-- Analytics & Platform Engineering
-- Azure / Databricks projects
-- Real-world data challenges
+- Data Engineering roles  
+- Analytics & Platform Engineering  
+- Azure / Databricks projects  
+- Real-world data challenges  
 
-📩 Feel free to connect with me on **LinkedIn** or explore my repositories!
-
----
-
-<p align="center">
-  <a href="https://mangesh-yadav12.github.io">
-    <img src="https://img.shields.io/badge/⭐_View_Full_Portfolio-FF6B35?style=for-the-badge" />
-  </a>
-</p>
+📩 Feel free to connect on LinkedIn or explore my repositories.
 
 ---
 
